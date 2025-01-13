@@ -31,6 +31,7 @@ Created new account with address F3YQEH5YNA5MYXOZYNXLJFKZ3H4ZYVCTMJSRNB6AIJSPEMF
 # goal account new -w myWallet
 Please enter the password for wallet 'myWallet': 
 Created new account with address CESUDEEE47NDTCDMQM6L6EASLQIHH7GPIVTN37NGFQRXPYKOT2FQ2MHZVQ
+# exit
 ```
 
 Launch the local blockchain explorer
