@@ -1,7 +1,7 @@
 # Algorand Development Environment
 https://developer.algorand.org/docs/get-started/algokit/
 
-## Algokit Setup Ubuntu OS
+## Algokit Setup Ubuntu Linux OS
 Install pix (https://pipx.pypa.io/stable/)
 ```
 $ sudo apt update
