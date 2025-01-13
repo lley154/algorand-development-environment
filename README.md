@@ -41,8 +41,8 @@ $ algokit explore
 - Select the myWallet in the wallet dropdown menu
 - Select Connect KMD
 - Enter the password you set when creating the wallet above
-  
-Next, try to create a transaction to send funds between the two accounts using the transaction wizard
+- Fund one of the accounts
+- Create a transaction to send funds between the two accounts using the transaction wizard
 
 
 ## npm Setup (for the typescript Algorand marketplace)
