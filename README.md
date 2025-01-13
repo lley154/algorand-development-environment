@@ -16,12 +16,31 @@ algokit, version 2.5.2
 ```
 Start Docker desktop and then start the algokit local network
 ```
-$ algokit localnet start
+$ algokit localnet restart
 ```
-To use the local blockchain explorer
+
+Create a wallet with 2 accounts
+```
+$ algokit localnet console
+# goal wallet new myWallet
+
+# goal account new -w myWallet
+Please enter the password for wallet 'myWallet': 
+Created new account with address F3YQEH5YNA5MYXOZYNXLJFKZ3H4ZYVCTMJSRNB6AIJSPEMFXRP5Y57WEEM
+
+# goal account new -w myWallet
+Please enter the password for wallet 'myWallet': 
+Created new account with address CESUDEEE47NDTCDMQM6L6EASLQIHH7GPIVTN37NGFQRXPYKOT2FQ2MHZVQ
+```
+
+Launch the local blockchain explorer
 ```
 $ algokit explore
 ```
+
+Fund the 2 accounts using the Fund Button
+
+Next, try to create a transaction to send funds between the two accounts using the transaction wizard
 
 
 ## npm Setup (for the typescript Algorand marketplace)
