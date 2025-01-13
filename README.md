@@ -39,6 +39,8 @@ Launch the local blockchain explorer
 $ algokit explore
 ```
 - Select the Wallet Connect button on the top right
+- Select Disconnect
+- Select the Wallet Connect button again
 - Select the myWallet in the wallet dropdown menu
 - Select Connect KMD
 - Enter the password you set when creating the wallet above
