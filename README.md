@@ -37,9 +37,11 @@ Launch the local blockchain explorer
 ```
 $ algokit explore
 ```
-
-Fund the 2 accounts using the Fund Button
-
+- Select the Wallet Connect button on the top right
+- Select the myWallet in the wallet dropdown menu
+- Select Connect KMD
+- Enter the password you set when creating the wallet above
+  
 Next, try to create a transaction to send funds between the two accounts using the transaction wizard
 
 
