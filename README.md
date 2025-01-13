@@ -16,7 +16,7 @@ algokit, version 2.5.2
 ```
 Start Docker desktop and then start the algokit local network
 ```
-$ algokit localnet restart
+$ algokit localnet reset
 ```
 
 Create a wallet with 2 accounts
